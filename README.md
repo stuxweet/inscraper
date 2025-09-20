@@ -11,7 +11,7 @@ It captures employee names, descriptions, and profile links from a specified com
 Git clone this repository:
 
 ```
-$ git clone https://github.com/yaxra/inscraper
+$ git clone https://github.com/yawfu/inscraper
 $ cd inscraper
 $ python -m pip install -r requirements.txt
 ```
